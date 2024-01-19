@@ -2,25 +2,12 @@
 
 You can read the relevant paper here: [A Survey on Hardware Accelerators for Large Language Models](https://arxiv.org/abs/2401.09890)
 
-Feel free to cite the paper:
-```
-@misc{kachris2024survey,
-      title={A Survey on Hardware Accelerators for Large Language Models}, 
-      author={Christoforos Kachris},
-      year={2024},
-      eprint={2401.09890},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR}
-}
-```
 An overview of the speedup and Energy efficiency of Hardware accelerators for LLMs
 (If there is no energy efficiency measurements the paper is plotted in the x-axis as if the energy efficiency was 1) 
 
 ![Survey on Hardware accelerators for LLMs](survey.png)
 
 The following table shows the research papers focused on the acceleration of LLMs (mostly transformers) categorized on the computing platform (FPGA, GPU, ASIC, In-memory).
-
-If you are interested to add you research paper in the list contact me here: [Christoforos Kachris](https://users.uniwa.gr/kachris/)
 
 
 | Year | Type | Title   | Speedup | Energy efficiency |
@@ -49,3 +36,20 @@ If you are interested to add you research paper in the list contact me here: [Ch
 | 2022 | In-memory | [In-Memory Computing based Accelerator for Transformer Networks for Long Sequences](https://ieeexplore.ieee.org/document/9474146)  |  200x  | 41x | 
 | 2023 | In-memory | [X-Former: In-Memory Acceleration of Transformers](https://arxiv.org/abs/2303.07470)  |  85x  |  7.5x | 
 | 2023 | Flash | [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)  | 25x/5x   | | 
+
+
+If you are interested to add you research paper in the list contact me here: [Christoforos Kachris](https://users.uniwa.gr/kachris/)
+
+
+Feel free to cite the paper:
+```
+@misc{kachris2024survey,
+      title={A Survey on Hardware Accelerators for Large Language Models}, 
+      author={Christoforos Kachris},
+      year={2024},
+      eprint={2401.09890},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR}
+}
+```
+
