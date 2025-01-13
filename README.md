@@ -43,13 +43,17 @@ If you are interested to add you research paper in the list contact me here: [Ch
 
 Feel free to cite the paper:
 ```
-@misc{kachris2024survey,
-      title={A Survey on Hardware Accelerators for Large Language Models}, 
-      author={Christoforos Kachris},
-      year={2024},
-      eprint={2401.09890},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR}
+@Article{kachris2024survey,
+AUTHOR = {Kachris, Christoforos},
+TITLE = {A Survey on Hardware Accelerators for Large Language Models},
+JOURNAL = {Applied Sciences},
+VOLUME = {15},
+YEAR = {2025},
+NUMBER = {2},
+ARTICLE-NUMBER = {586},
+URL = {https://www.mdpi.com/2076-3417/15/2/586},
+ISSN = {2076-3417},
 }
+
 ```
 
